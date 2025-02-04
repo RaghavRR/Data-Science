@@ -6,7 +6,7 @@ This repository documents my journey in Data Science, covering everything from P
 I will be learning each concept thoroughly and implementing real-world projects to strengthen my skills. This repository will serve as a guide for anyone looking to follow a structured Data Science learning path.
 
 # 📌 Learning Roadmap
-> 🔹 Step 1: Python for Data Science
+# 🔹 Step 1: Python for Data Science
         Python Basics: Syntax, Data Types, Loops, Functions, File Handling
         Advanced Python: OOPs, Exception Handling, Modules, Logging
         Databases and Web API:
